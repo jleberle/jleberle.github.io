@@ -1,218 +1,143 @@
 ---
-date: '2025-04-17T17:51:41-05:00'
-draft: true
-title: 'United States History Since 1865'
+date: '2025-04-17'
+draft: false
+title: 'Survey of American History'
+summary: 'Survey of American history from past to present in one semester'
 cover:
-  image: "1493/cover.jpeg"
-  alt: "Civil Works Demonstration"
-  caption: "Image credit: Harvard Art Museums/Fogg Museum"
+  image: "cover.jpg"
+  alt: "Map of the United States"
+  caption: ""
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-# Course Description
+*This course was offered as an online course in the Spring 2025 semester*
 
-This course provides a general introduction to major themes and events in the history of North America and the United States since the end of the Civil War in 1865. The course will cover the major themes of American history during the period as well as attempt to provide some understanding of the process relating to the construction of history and its interpretations. 
+## Course Description
 
+This course provides a general introduction to major themes and events in the history of North America and the United States beginning with early European-indigenous encounters and continuing through the present day. Students are expected to attend weekly lectures, complete assigned readings, and demonstrate acquired knowledge through exams and an essay assignment. Students are also expected to think critically about the complicated, and possibly controversial, nature of our nation’s shared pasts.
 
-# Contact Information
+## A Note About Online Delivery
 
-Office: Removed\
-Office Hours: Removed\
-Email: Removed                  
+This course is delivered entirely online and is largely self-paced over the course of the week. Because this course does not meet in person it is expected that your work on the course each week will equal the time you would have spent in a traditional face-to-face class. Over the course of the semester you will need to cover roughly two chapters in the assigned textbook per week and complete the associated reading quizzes or primary source document assignments to keep a reasonable pace. 
 
-You do not need an appointment for office hours, visits outside of office hours must have an appointment.
+I encourage you to utilize my office hours throughout the semester, especially if you are having trouble comprehending the material or find yourself falling behind or getting overwhelmed. I can review drafts of the primary source assignments or discuss materials for the exams, but only prior to the exams opening. I am not able to answer content related questions on the exams while they're open for completion.
 
-Teaching assistant contact information and office hours are available on Canvas.
+## Course Materials and Costs
 
-**Mandatory Reporting Notice**: All communications are kept confidential except in two circumstances. As University employees I (and the TAs) are required by law to report statements of self harm and sexual violence. Under Title IX I must inform the University of all reports of sexual violence regardless of circumstances or requests to not report. The University has confidential reporters who can assist you if you do not want the information reported to the University. Students who wish to take this option should contact the OSU victim advocates at 405-564-2129 or email advocate@okstate.edu.
+Eric Foner, *Give Me Liberty* Custom OSU Edition, delivered electronically through the Canvas site.
 
-## Notes on Contacting Us
+**Note**: The Foner textbook is mandatory for the course and there is not an alternative form of delivery as Norton has not produced a hard copy of the custom OSU edition. Failure to have access to the textbook is not grounds for extensions on assignments.
 
-Please ensure all emails include your full name, course information (date and time or five digit CRN), and relevant information on the issue. Emails without subjects, names, or course information are more difficult to address as I have two sections of 1493. 
+The textbook is the only resource besides lectures that you're allowed to use in completing assignments for the course. **Use of outside sources will result in automatic failure on assignments**. Outside source usage is anything not provided through the course materials. Students who use un-cited outside materials may be subject to academic integrity hearings.
 
-## Resources
+## Meazure/ProctorU Monitoring 
 
-- [LASSO Center](https://universitycollege.okstate.edu/lasso/): Tutoring and academic support coaches
-- [OSU Counseling](https://ucs.okstate.edu): University Counseling including emergency support options
-- [Victim Support Services](https://1is2many.okstate.edu/find-support/support-for-victims/index.html): Sexual violence support and reporting information.
-
-# Required Materials
-
-Your textbook, Eric Foner's *Give Me Liberty* (OSU Custom 7th Edition) is included on the course's online classroom as part of the fees attached to this course. The Foner textbook is required for the course.  **Please note**: The textbook is required for the course assignments and is only available as an ebook on Canvas, W.W. Norton did not produce a hard copy version.  Extensions or makeups will not be granted if you opt-out and lose access to the textbook.
-
-Additionally, all students need to provide three blank full-sized blue books by the end of the second week of the course. Blue books must be turned in during office hours with either Dr. Eberle or a TA. Failure to provide blue books will result in not being able to take the course's in-person exams
+In this course, all exams will be proctored by a third-party vendor, Meazure Learning/ProctorU.  For this course, you will be using Record+. A week before the exam, please go to the Student Guide to Taking a Test and complete the steps to ensure that your device is able to be used for online proctoring and that you understand the online proctoring process. The online test proctoring cost of $6 per exam will be billed to your Bursar account early the next month after each exam.
 
 ## Assignments
 
-#### Syllabus Quiz
+**Syllabus Quiz** - Ten question, pass/fail quiz covering the syllabus and course policies.
 
-Short multiple choice quiz on Canvas that covers the basics of this syllabus. The quiz is pass/fail.
+**Course video viewership** - Points will be allotted based on viewership of course lectures. 2 points per full video, 1 point if at least half the video was watched. Videos must be watched during the week they are assigned for points to be awarded.
 
-#### Attendance
+**Chapter Readings** - Each week you have assigned chapters from the course textbook. Each chapter includes short quizzes in each section that you will complete. Each chapter reading is worth 10 points and the three lowest grades will be dropped. 
 
-Attendance will be taken ten times at random throughout the semester. Each attendance check will be worth 20 points. Excused absences will be provided for University-related functions or illness with appropriate documentation. Please provide documentation in-person in office hours, the class period prior to the absence or at first class period you return.
+**Inquisitive** - Each chapter includes an inquisitive quiz that are more in-depth and cover the course material for the week. Each inquisitive is worth 10 points and the three lowest grades will be dropped.
 
-**Note**: Attendances grades will be posted at the end of the semester on Canvas, if you have questions about your attendance grade during the semester see Dr. Eberle during office hours.
+**Essay Exams** - Four exams that will consist of short answer responses and a formal essay responding to a prompt. On each exam you will be asked to identify five terms in a paragraph-length response each that provides the relevant information on the topic as it relates to the class material and write a comprehensive essay related to the material from that section. Exams may be scheduled at any point during the week throught ProctorU/Meazure with the last exam slot being 9:45PM on Sunday.
 
-#### Primary Source Responses
+## Grade Breakdown
 
-Four responses to assigned primary source materials. Additional information and the prompts for each of these assignments are available on the corresponding Canvas assignment. You will turn in a digital copy to the appropriate Canvas assignment prior to the deadline listed in the course schedule.
+|Assignments              | Number Due | Total Points |
+| ----                    | ---        |---           |
+| Syllabus Quiz           |1           | 50 Points    | 
+| Course Lectures         |            | 50 Points    | 
+| Textbook Chapters       |25          | 250 Points   |
+| Inquisitives            |25          | 250 Points   |
+| Exams                   |4           | 400 Points   |
 
-#### In-Semester Exams
+## Overall Grades
 
-The exams will have four short IDs and an essay response. Study guides will be available on Canvas two weeks before the exam.
+| Letter Grade | Percentage |
+| --- | --- |
+| A   | 100%-90% |
+| B   | 89%-80%  |
+| C   | 79%-70%  |
+| D   | 69%-60%  |
+| F   | 59%-0    |
 
-#### Final Exam
+## Grading Policies
 
-The final exam will consist of two essays, a non-cumulative essay and a cumulative essay. The study guide for the exam will be on the Canvas assignment two weeks prior to the exam.
+- All assignment submissions are final. No resubmissions will be accepted. 
+- The only extra credit opportunity is if 75% of the course submits course evaluations at the end of the semester. No additional extra credit is offered in the course and students may not submit additional work or revise assignments for additional credit at any point during the semester.
+- Once assignments have closed on Canvas they cannot be completed for credit. Technical issues cannot be verified by myself or Canvas support and are not valid excuses for missing assignments. If you have technical issues you should contact Canvas support as soon as possible prior to the deadline to resolve any issues.
+- If you have a extenuating circumstance that prevents you from completing course assignments (unforeseen illness, etc.) you need to alert me as soon as possible and provide relevant dated documentation of the issue. Extension requests without appropriate documentation will not be approved.
 
-\newpage
+## Incomplete Grades
 
-## Grades
+Incomplete Grades University policy requires that students complete at least 50% of the assigned coursework to receive an “incomplete” grade. While I will only give incompletes in extremely rare situations, be advised you will need to finish the coursework within a year to remove the incomplete, otherwise you will receive an “I” paired with the grade you earned at that time (e.g. I/B, I/C). Incompletes are not automatic, you need to meet with me in person to arrange an incomplete.
 
-|     Assignment     | Breakdown   |
-| :----------------: | :-------:   |
-|  Syllabus Quiz     |    5%       |
-|  Attendance        |    20%      |
-|  Reading Responses |    30%      | 
-|  Exams             |    10% Each |
-|  Final.            |    25%      | 
+## Course Schedule
 
-The following key will determine your letter grade (All grades are rounded to the nearest whole number):
+The course follows the outline of Foner's *Give Me Liberty* textbook over the course of the semester. 
 
-| Grade |  Percentage   |
-| :---: | :-----------: |
-|   A   | 90% and above |
-|   B   |    80%-89%    |
-|   C   |    70%-79%    |
-|   D   |    60-69%     |
-|   F   | Less than 60% |
+Each week starts on Monday and runs through the following Sunday. Materials for the week will unlock on Monday morning while the quizzes and assignments will unlock on Wednesday morning. All assignments for the week, excluding exams, need to be submitted by 11:59PM on Sunday for credit. Below is the basic outline of the course with exam weeks noted.
 
-#### Grade Disputes
+Week 1 (January 13-19): Indigenous America and European Arrivals
 
-Students wishing to dispute their grades (outside of obvious mathematical errors or clarification of comments) are required to wait 24 hours after the assignment has been handed back and then need to attend office hours (or schedule a meeting) **with the person who graded their work** to formally discuss the grade they received. Be prepared to come to the meeting with specific points you feel were not taken into account by your grader. If I did not grade your assignment I will only meet with you *after* you have talked to the TA. We reserve the right to raise *or* lower your grade at these meetings.
+- Readings: Chapters 1 and 2
 
-Due to the Federal Educational Rights and Privacy Act (FERPA), we **do not** answer any emails related to grades. Emails about grades will not be answered, students unsure about where they stand in class need to come see us in person.
+Week 2 (January 20-26): The Growing British Empire
 
-#### Drops
+- Readings: Chapters 3 and 4
 
-Important deadlines for dropping the class are:
+Week 3 (January 27-February 2): The American Revolution and New Republic
 
-- January 21 (Tuesday): 100% refund for dropped class
-- January 24 (Friday): Partial refund for dropped class
-- February 26 (Wednesday): Six Week Grades
-- April 11 (Friday): Withdraw deadline
+- Readings: Chapters 5-8
 
-#### Incomplete Grades
+Week 4 (February 3-9): Exam 1
 
-University policy requires that students complete *at least 50%* of the assigned coursework to receive an "incomplete" grade. While I will only give incompletes in extremely rare situations, be advised you will need to finish the coursework within a year to remove the incomplete, otherwise you will receive the grade you earned at that time (e.g. I/B becomes a B, etc.) **Incompletes are not automatic**, you need to meet with me in person to arrange an incomplete.
+Week 5 (February 10-16): The Market Revolution
 
-## Additional Policies
+- Readings: Chapters 9 and 10
 
-#### Late Work/Resubmissions
+Week 6 (February 17-23): Slavery in America
 
-- All out of class assignments are due to Canvas by 11:59PM on the date listed in the syllabus. After the deadline you have 48 hours to submit the assignment for late work credit with 10% off per day late.
-- Extensions are only available for illness or extenuating circumstances with appropriate documentation provided. All extension requests must be submitted in a timely manner.
-- Exams do not have a late work window for completion. Exams may only be made up with appropriate documentation for extenuating circumstances and all makeups are at my discretion.
-- Course absences due to scheduled events (e.g. field trips, sports absences, etc.) are not grounds for making up the assignment at a later date. If you know you are going to be absent for an event you need to either submit the assignment early or schedule a time to take the exam prior to the class period in which it is offered.
-- Technical issues do not qualify for extensions on assignments. If you run into a technical issue prior to the deadline, email Dr. Eberle a copy of the assignment as an email attachment *prior to the deadline*, links to Google Docs or other online services will not be accepted.
-- Assignments may not be resubmitted or revised for additional credit after the assignment deadline has passed. Make sure to verify your submission to Canvas is both the correct assignment and displaying correctly. Wrongly submitted assignments are not grounds for resubmissions.
+- Readings: Chapters 11 and 12
 
-#### Extra Credit
+Week 7 (February 24-March 2): The Civil War
 
-There are **two extra credit opportunities in the course this semester**. First, students who turn in all assignments on-time this semester will receive 25 extra points at the end of the semester. Students with an approved extension request will still be eligible for the bonus points. Second, if 75% of the class completes the online course evaluation at the end of the semester, the entire class will receive 25 bonus points on the final exam. There are no additional opportunities for bonus points this semester.
+- Reading: Chapters 13-15
 
-#### Class conduct
+Week 8 (March 3-9): Exam 2
 
-- Laptops are only allowed for note taking. Any non-class use will be subject to dismissal from class and loss of attendance points. 
-- Cellphones may not be used at any point during lecture and should be on silent and *in your backpack* not on your lap or desk, usage will result in dismissal from class and loss of attendance points.
-- Taking photographs, videos, or audio recordings of the lectures or PowerPoint slides is strictly prohibited.
-- Do not pack up prior to class being formally dismissed. Packing up early is not only disrespectful but causes too much noise for others to properly hear the lecture. 
-- You are expected to conduct yourself in a professional manner. History has a number of controversial events and we will address some of these. Please respect the views of your classmates and treat everyone with decency. 
+Week 9 (March 10-16): The Gilded Age
 
-#### Accessibility Services
+- Readings: Chapters 16 and 17 
 
-According to the Americans with Disabilities Act, each student with a disability is responsible for notifying the University of their disability and requesting accommodations. If you think you have a qualified disability and need accommodations, you should notify the instructor and request verification of eligibility for accommodations from Student Accessibility Services. Please advise the instructor of such disability and desired accommodations at some point before, during, or immediately after the first scheduled class period. Faculty members are obligated to respond when they receive official notice of a disability, but are under no obligation to provide retroactive accommodations. To receive services, you must submit appropriate documentation and complete an intake process during which the existence of a qualified disability is verified and reasonable accommodations are identified. Go to https://accessibility.okstate.edu for additional information.
+Week 10 (March 17-23): Spring Break
 
-**Students wishing to use SAS accommodations must see me in office hours to discuss their accommodations**
+Week 11 (March 24-30): The Early Twentieth Century
 
-#### Plagiarism/Academic Integrity
+- Readings: Chapters 18-20
 
-Intentional cheating on any assignment will result in formal academic integrity violation proceedings including referral to the Office of Student Conduct, and may result in a failing grade for the entire course and/or receiving a permanent notation of a violation of academic integrity on your transcript (F!) All students should be familiar with university academic integrity guidelines and procedures, including the right to appeal charges. For more information you may contact the Office of Academic Affairs, 101 Whitehurst, 405-744-5627, or visit http://academicintegrity.okstate.edu
+Week 12 (March 31-April 6): The Great Depression and World War II
 
-Specific course policies:
+- Readings: Chapters 21 and 22
+- Review Quiz 7 Due
 
-- All work must be your own original work this semester. You are not allowed to re-use or re-submit assignments from other courses or work with others on completing assignments.
-- Outside sources are strictly prohibited in the course. You may only use the assigned course materials and lecture notes to complete assignments in the course.
-- The use of artificial intelligence programs such as ChatGPT is strictly prohibited in the course.
+Week 13 (April 7-13): Exam 3
 
-\newpage
+Week 14 (April 14-20): The Post-War Boom
 
-# Class Schedule (Subject to Change)
+- Readings: Chapters 23-25
 
-### Due Dates
+Week 15 (April 21-27): Conservatism
 
-- 1/19: Syllabus Quiz
-- 1/29: Primary Source Response #1
-- 2/12: In-Class Exam
-- 2/26: Primary Source Response #2
-- 3/12: In-Class Exam
-- 4/2: Primary Source Response #3
-- 4/23: Primary Source Response #4
-- 5/5: Final Exam (Check Canvas for time)
+- Readings: Chapter 26
 
-### Week 1 (1/13 - 1/17): Introductions and The Process of History
-- **SUNDAY** Syllabus Quiz
-* **DUE BY WEEK TWO**: Three blue books to a TA or myself in office hours
+Week 16 (April 28-May 4): The New World Order
 
-### Week 2 (1/20 - 1/24): Reconstruction
-- **MONDAY**: No Class, Martin Luther King, Jr. Day
-* *Textbook supplement to lectures*: Foner, Chapter 15
+- Readings: Chapters 27 and 28
 
-### Week 3 (1/27 - 1/31): The West
-* *Textbook supplement to lecture*: Foner, Chapter 16
-* **WEDNESDAY**: Primary Source Response #1
-
-### Week 4 (1/3 - 1/7): Gilded Age
-* *Textbook supplement to lectures*: Foner, Chapter 16, 17
-
-### Week 5 (2/10 - 2/14): The Progressive Era
-* *Textbook supplement to lecture*: Foner, Chapter 18
-* **WEDNESDAY:** In-class Exam 1
-
-### Week 6 (2/17 - 2/21): American Empire and War
-* *Textbook supplement to lecture*: Foner, Chapter 19
-
-### Week 7 (2/24 - 2/28): The 1920s and the Crash
-* *Textbook supplement to lecture*: Foner, Chapter 20
-* **WEDNESDAY**: Primary Source Response #2
-
-### Week 8 (3/3 - 3/7): The Great Depression
-* *Textbook supplement to lecture*: Foner, Chapters 21
-
-### Week 9 (3/10 - 3/14): World War II and the Early Cold War
-* *Textbook supplement to lecture*: Foner, Chapter 22
-* **WEDNESDAY**: In-class Exam 2
-
-### Week 10 (3/17 - 3/21): Spring Break
-
-### Week 11 (3/24 - 3/28): Civil Rights Movement
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 24-25
-
-### Week 12 (3/31 - 4/4): Vietnam and The Tumultuous '60s
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 25
-* **WEDNESDAY**: Primary Source Response #3
-
-### Week 13 (4/7 - 4/11): The Rise of Conservatism and the 1970s
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 26 (First half)
-
-### Week 14 (4/14 - 3/18): Reagan's Revolution
-* *Textbook supplement to lecture*: Foner, Chapter 26 (Second Half)
-
-### Week 15 (4/21 - 4/25): New World Order
-* *Textbook supplement to lecture*: Foner, Chapter 27
-* **WEDNESDAY**: Primary Source Response #4
-
-### Week 16 (4/28 - 5/2): The Road to Today
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 28
-* **FINAL EXAM**: May 5th
+Final: Due by May 9th
