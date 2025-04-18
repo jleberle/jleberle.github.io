@@ -6,6 +6,8 @@ summary: 'Survey of American history from past to present in one semester'
 cover:
   image: "cover.jpg"
   alt: "Map of the United States"
+  hiddenInList: false
+  hiddenInSingle: false
   caption: ""
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
