@@ -2,6 +2,7 @@
 date: '2025-01'
 draft: false
 title: 'Oklahoma History'
+summary: 'The history of the state of Oklahoma'
 cover:
   image: "cover.jpeg"
   alt: "Cushing Oil Fields, near Tulsa, Okla."
