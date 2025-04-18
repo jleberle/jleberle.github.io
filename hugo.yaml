@@ -73,6 +73,10 @@ params:
         url: cv.pdf
       - name: Courses
         url: courses
+      - name: Student Hours
+        url: studenthours
+      - name: Location
+        url: location
 
   # home-info mode
   homeInfoParams:
