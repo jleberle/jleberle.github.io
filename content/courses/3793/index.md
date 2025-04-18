@@ -1,84 +1,62 @@
 ---
-date: '2025-04-17T17:51:41-05:00'
-draft: true
-title: 'United States History Since 1865'
+date: '2025-04-17'
+draft: false
+title: 'Native American History'
 cover:
-  image: "1493/cover.jpeg"
-  alt: "Civil Works Demonstration"
-  caption: "Image credit: Harvard Art Museums/Fogg Museum"
+  image: "cover.jpg"
+  alt: "Sun Dance Scene"
+  hiddenInList: false
+  hiddenInSingle: false
+  caption: "Sun Dance Scene, Art Institute of Chicago"
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-# Course Description
+*This version was offered in the Spring 2023 Semester*
 
-This course provides a general introduction to major themes and events in the history of North America and the United States since the end of the Civil War in 1865. The course will cover the major themes of American history during the period as well as attempt to provide some understanding of the process relating to the construction of history and its interpretations. 
+## Course Description
 
+Introduction to the history of Native American peoples from encounters with European colonists to the present, with an emphasis on tribal nationhood and sovereignty, war and diplomacy, treaty rights and federal policies, indigeneity in modern contexts, and a leadership in Indian Country.
 
-# Contact Information
+## Required Materials
 
-Office: Removed\
-Office Hours: Removed\
-Email: Removed                  
+The course requires the following two books which can be purchased at the University bookstore or any place books are sold:
 
-You do not need an appointment for office hours, visits outside of office hours must have an appointment.
-
-Teaching assistant contact information and office hours are available on Canvas.
-
-**Mandatory Reporting Notice**: All communications are kept confidential except in two circumstances. As University employees I (and the TAs) are required by law to report statements of self harm and sexual violence. Under Title IX I must inform the University of all reports of sexual violence regardless of circumstances or requests to not report. The University has confidential reporters who can assist you if you do not want the information reported to the University. Students who wish to take this option should contact the OSU victim advocates at 405-564-2129 or email advocate@okstate.edu.
-
-## Notes on Contacting Us
-
-Please ensure all emails include your full name, course information (date and time or five digit CRN), and relevant information on the issue. Emails without subjects, names, or course information are more difficult to address as I have two sections of 1493. 
-
-## Resources
-
-- [LASSO Center](https://universitycollege.okstate.edu/lasso/): Tutoring and academic support coaches
-- [OSU Counseling](https://ucs.okstate.edu): University Counseling including emergency support options
-- [Victim Support Services](https://1is2many.okstate.edu/find-support/support-for-victims/index.html): Sexual violence support and reporting information.
-
-# Required Materials
-
-Your textbook, Eric Foner's *Give Me Liberty* (OSU Custom 7th Edition) is included on the course's online classroom as part of the fees attached to this course. The Foner textbook is required for the course.  **Please note**: The textbook is required for the course assignments and is only available as an ebook on Canvas, W.W. Norton did not produce a hard copy version.  Extensions or makeups will not be granted if you opt-out and lose access to the textbook.
-
-Additionally, all students need to provide three blank full-sized blue books by the end of the second week of the course. Blue books must be turned in during office hours with either Dr. Eberle or a TA. Failure to provide blue books will result in not being able to take the course's in-person exams
+- Philip J. Deloria, *Playing Indian* (Yale University Press, 2022) **Make sure to buy new edition**
+- Coll Thrush, *Indigenous London: Native Travelers at the Heart of Empire* (Yale University Press, 2016)
 
 ## Assignments
 
-#### Syllabus Quiz
+##### Syllabus Quiz
 
 Short multiple choice quiz on Canvas that covers the basics of this syllabus. The quiz is pass/fail.
 
-#### Attendance
+##### Attendance
 
-Attendance will be taken ten times at random throughout the semester. Each attendance check will be worth 20 points. Excused absences will be provided for University-related functions or illness with appropriate documentation. Please provide documentation in-person in office hours, the class period prior to the absence or at first class period you return.
+I will take attendance 10 times randomly throughout the semester.
 
-**Note**: Attendances grades will be posted at the end of the semester on Canvas, if you have questions about your attendance grade during the semester see Dr. Eberle during office hours.
+##### Reading Responses
 
-#### Primary Source Responses
+Four responses to assigned reading materials. Additional information and the prompts for each of these assignments are available on the corresponding Canvas assignment. You will turn in a digital copy to the appropriate Canvas assignment by the end of the day listed in the course syllabus.
 
-Four responses to assigned primary source materials. Additional information and the prompts for each of these assignments are available on the corresponding Canvas assignment. You will turn in a digital copy to the appropriate Canvas assignment prior to the deadline listed in the course schedule.
+##### Paper 
 
-#### In-Semester Exams
+A 5-10 page paper that will provide a biography and historical assessment of a major figure in Native American History. The paper will have three components: an initial proposal (25 points); an annotated bibliography and paper update (25 points); the final paper (150 points). Students may propose alternative methods for satisfying the assignment. All alternative methods must be approved by me in advance.
 
-The exams will have four short IDs and an essay response. Study guides will be available on Canvas two weeks before the exam.
+##### Exams
 
-#### Final Exam
-
-The final exam will consist of two essays, a non-cumulative essay and a cumulative essay. The study guide for the exam will be on the Canvas assignment two weeks prior to the exam.
-
-\newpage
+Three in-class exams comprised of short IDs and an essay. A study guide will be provided. No notes or other materials will be allowed in completing the exam.
 
 ## Grades
 
-|     Assignment     | Breakdown   |
-| :----------------: | :-------:   |
-|  Syllabus Quiz     |    5%       |
-|  Attendance        |    20%      |
-|  Reading Responses |    30%      | 
-|  Exams             |    10% Each |
-|  Final.            |    25%      | 
+|     Assignment     | Breakdown |
+| :----------------: | :-------: |
+|   Syllabus Quiz    |    100 points    |
+|    Attendance      |    50 points     |
+|  Reading Responses |    200 points    |
+|      Paper         |    200 points    | 
+|      Exams         |    450 points    |
 
-The following key will determine your letter grade (All grades are rounded to the nearest whole number):
+The following key will determine your letter grade:
 
 | Grade |  Percentage   |
 | :---: | :-----------: |
@@ -88,131 +66,114 @@ The following key will determine your letter grade (All grades are rounded to th
 |   D   |    60-69%     |
 |   F   | Less than 60% |
 
-#### Grade Disputes
+##### Grade Disputes
 
 Students wishing to dispute their grades (outside of obvious mathematical errors or clarification of comments) are required to wait 24 hours after the assignment has been handed back and then need to attend office hours (or schedule a meeting) **with the person who graded their work** to formally discuss the grade they received. Be prepared to come to the meeting with specific points you feel were not taken into account by your grader. If I did not grade your assignment I will only meet with you *after* you have talked to the TA. We reserve the right to raise *or* lower your grade at these meetings.
 
 Due to the Federal Educational Rights and Privacy Act (FERPA), we **do not** answer any emails related to grades. Emails about grades will not be answered, students unsure about where they stand in class need to come see us in person.
 
-#### Drops
-
-Important deadlines for dropping the class are:
-
-- January 21 (Tuesday): 100% refund for dropped class
-- January 24 (Friday): Partial refund for dropped class
-- February 26 (Wednesday): Six Week Grades
-- April 11 (Friday): Withdraw deadline
-
-#### Incomplete Grades
-
-University policy requires that students complete *at least 50%* of the assigned coursework to receive an "incomplete" grade. While I will only give incompletes in extremely rare situations, be advised you will need to finish the coursework within a year to remove the incomplete, otherwise you will receive the grade you earned at that time (e.g. I/B becomes a B, etc.) **Incompletes are not automatic**, you need to meet with me in person to arrange an incomplete.
-
 ## Additional Policies
 
-#### Late Work/Resubmissions
+##### Late Work
 
-- All out of class assignments are due to Canvas by 11:59PM on the date listed in the syllabus. After the deadline you have 48 hours to submit the assignment for late work credit with 10% off per day late.
-- Extensions are only available for illness or extenuating circumstances with appropriate documentation provided. All extension requests must be submitted in a timely manner.
-- Exams do not have a late work window for completion. Exams may only be made up with appropriate documentation for extenuating circumstances and all makeups are at my discretion.
-- Course absences due to scheduled events (e.g. field trips, sports absences, etc.) are not grounds for making up the assignment at a later date. If you know you are going to be absent for an event you need to either submit the assignment early or schedule a time to take the exam prior to the class period in which it is offered.
-- Technical issues do not qualify for extensions on assignments. If you run into a technical issue prior to the deadline, email Dr. Eberle a copy of the assignment as an email attachment *prior to the deadline*, links to Google Docs or other online services will not be accepted.
-- Assignments may not be resubmitted or revised for additional credit after the assignment deadline has passed. Make sure to verify your submission to Canvas is both the correct assignment and displaying correctly. Wrongly submitted assignments are not grounds for resubmissions.
+All assignments besides exams are due to Canvas by 11:59PM on the date listed in the syllabus. After the deadline you have two days to submit the assignment for late work credit with 10% off per day late (the late work window **does not** apply to the in-class exams). Late work penalties are automatically deducted by Canvas and the late work window starts immediately after the full credit deadline. Once the late work window has passed assignments may not be submitted for credit.
 
-#### Extra Credit
+All extensions for full credit must have appropriate dated documentation and be made in a timely manner. Any extension requests without documentation or made excessively late will not be granted. Technical issues cannot be sufficiently verified and do not qualify for extensions so do not wait until the late minute to submit assignments to avoid late penalties or missed assignments.
 
-There are **two extra credit opportunities in the course this semester**. First, students who turn in all assignments on-time this semester will receive 25 extra points at the end of the semester. Students with an approved extension request will still be eligible for the bonus points. Second, if 75% of the class completes the online course evaluation at the end of the semester, the entire class will receive 25 bonus points on the final exam. There are no additional opportunities for bonus points this semester.
+##### Resubmissions / Extra Credit
 
-#### Class conduct
+You have unlimited submissions prior to the assignment deadline and we will grade the most recent submission (excluding syllabus quiz which offers two attempts). Once the deadline passes assignments cannot be resubmitted or redone for additional credit. Make sure you verify your assignment has been submitted to Canvas and is the correct assignment to ensure credit. Wrongly submitted assignments are not grounds for extensions or makeups.
 
-- Laptops are only allowed for note taking. Any non-class use will be subject to dismissal from class and loss of attendance points. 
-- Cellphones may not be used at any point during lecture and should be on silent and *in your backpack* not on your lap or desk, usage will result in dismissal from class and loss of attendance points.
+There are **two extra credit opportunities in the course this semester**. First, students who turn in all assignments on-time this semester will receive 25 extra points at the end of the semester. Students with an approved extension request will still be eligible for the bonus points. Second, if 75% of the class completes the online course evaluation at the end of the semester, the entire class will receive 25 bonus points on the final exam. Students may also earn bonus points if they email me by Friday of the first week of classes with their favorite thing.
+
+##### Class conduct
+
+- You may use a laptop to take notes for the course. Chronic misuse will result in dismissal from the course and potential loss of attendance points
+- Phones may not be used in any circumstance and headphones must be taken off during the class period.
 - Taking photographs, videos, or audio recordings of the lectures or PowerPoint slides is strictly prohibited.
 - Do not pack up prior to class being formally dismissed. Packing up early is not only disrespectful but causes too much noise for others to properly hear the lecture. 
 - You are expected to conduct yourself in a professional manner. History has a number of controversial events and we will address some of these. Please respect the views of your classmates and treat everyone with decency. 
 
-#### Accessibility Services
+## Class Schedule (Subject to Change)
 
-According to the Americans with Disabilities Act, each student with a disability is responsible for notifying the University of their disability and requesting accommodations. If you think you have a qualified disability and need accommodations, you should notify the instructor and request verification of eligibility for accommodations from Student Accessibility Services. Please advise the instructor of such disability and desired accommodations at some point before, during, or immediately after the first scheduled class period. Faculty members are obligated to respond when they receive official notice of a disability, but are under no obligation to provide retroactive accommodations. To receive services, you must submit appropriate documentation and complete an intake process during which the existence of a qualified disability is verified and reasonable accommodations are identified. Go to https://accessibility.okstate.edu for additional information.
+##### Week 1 (1/16 - 1/20): Introductions and Early Americans
+* **Sunday, January 22:** Syllabus Quiz on Canvas
 
-**Students wishing to use SAS accommodations must see me in office hours to discuss their accommodations**
+Readings:
 
-#### Plagiarism/Academic Integrity
+- Deloria: Introduction
+- Thrush: Chapter One (pp. 1-27)
 
-Intentional cheating on any assignment will result in formal academic integrity violation proceedings including referral to the Office of Student Conduct, and may result in a failing grade for the entire course and/or receiving a permanent notation of a violation of academic integrity on your transcript (F!) All students should be familiar with university academic integrity guidelines and procedures, including the right to appeal charges. For more information you may contact the Office of Academic Affairs, 101 Whitehurst, 405-744-5627, or visit http://academicintegrity.okstate.edu
+##### Week 2 (1/23 - 1/27): Indigenous Empires and Early Contact
 
-Specific course policies:
+##### Week 3 (1/30 - 2/3): Spanish Borderlands
+* **THURSDAY**: Reading Response One and Paper Proposal Due
 
-- All work must be your own original work this semester. You are not allowed to re-use or re-submit assignments from other courses or work with others on completing assignments.
-- Outside sources are strictly prohibited in the course. You may only use the assigned course materials and lecture notes to complete assignments in the course.
-- The use of artificial intelligence programs such as ChatGPT is strictly prohibited in the course.
+##### Week 4 (2/6 - 2/10):  British Colonization
 
-\newpage
+Readings:
 
-# Class Schedule (Subject to Change)
+- Thrush: Interlude One through Interlude Three (pp. 28-102)
 
-### Due Dates
+##### Week 5 (2/13 - 2/17): The Indians' Revolution
+* **THURSDAY**: Exam One
 
-- 1/19: Syllabus Quiz
-- 1/29: Primary Source Response #1
-- 2/12: In-Class Exam
-- 2/26: Primary Source Response #2
-- 3/12: In-Class Exam
-- 4/2: Primary Source Response #3
-- 4/23: Primary Source Response #4
-- 5/5: Final Exam (Check Canvas for time)
+Readings:
 
-### Week 1 (1/13 - 1/17): Introductions and The Process of History
-- **SUNDAY** Syllabus Quiz
-* **DUE BY WEEK TWO**: Three blue books to a TA or myself in office hours
+- Deloria: Chapter One
+- Thrush: Chapter 4 (pp. 103-132)
 
-### Week 2 (1/20 - 1/24): Reconstruction
-- **MONDAY**: No Class, Martin Luther King, Jr. Day
-* *Textbook supplement to lectures*: Foner, Chapter 15
+##### Week 6 (2/20 - 2/24): Removals
 
-### Week 3 (1/27 - 1/31): The West
-* *Textbook supplement to lecture*: Foner, Chapter 16
-* **WEDNESDAY**: Primary Source Response #1
+Readings:
 
-### Week 4 (1/3 - 1/7): Gilded Age
-* *Textbook supplement to lectures*: Foner, Chapter 16, 17
+- Deloria: Chapter Two
 
-### Week 5 (2/10 - 2/14): The Progressive Era
-* *Textbook supplement to lecture*: Foner, Chapter 18
-* **WEDNESDAY:** In-class Exam 1
+##### Week 7 (2/27 - 3/3): Slavery and Westward Expansions
+* **THURSDAY**: Reading Response Two Due
 
-### Week 6 (2/17 - 2/21): American Empire and War
-* *Textbook supplement to lecture*: Foner, Chapter 19
+Readings:
 
-### Week 7 (2/24 - 2/28): The 1920s and the Crash
-* *Textbook supplement to lecture*: Foner, Chapter 20
-* **WEDNESDAY**: Primary Source Response #2
+- Deloria: Chapter Three
 
-### Week 8 (3/3 - 3/7): The Great Depression
-* *Textbook supplement to lecture*: Foner, Chapters 21
+##### Week 8 (3/6 - 3/10): The Civil War in Indian Country
+* **THURSDAY**: Annotated bibliography due
 
-### Week 9 (3/10 - 3/14): World War II and the Early Cold War
-* *Textbook supplement to lecture*: Foner, Chapter 22
-* **WEDNESDAY**: In-class Exam 2
+##### Week 9 (3/13 - 3/17):  Spring Break 
 
-### Week 10 (3/17 - 3/21): Spring Break
+##### Week 10 (3/20 - 3/24): Reconstructions and Wars
+* **THURSDAY**: Exam Two
 
-### Week 11 (3/24 - 3/28): Civil Rights Movement
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 24-25
+##### Week 11 (3/27 - 3/31): The Struggle for Cultural Identity
+* **THURSDAY**: Reading Response Three Due
 
-### Week 12 (3/31 - 4/4): Vietnam and The Tumultuous '60s
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 25
-* **WEDNESDAY**: Primary Source Response #3
+Readings:
 
-### Week 13 (4/7 - 4/11): The Rise of Conservatism and the 1970s
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 26 (First half)
+- Thrush: Interlude Five and Chapter Six (pp. 169-203)
+- Deloria: Chapter Four
 
-### Week 14 (4/14 - 3/18): Reagan's Revolution
-* *Textbook supplement to lecture*: Foner, Chapter 26 (Second Half)
+##### Week 12 (4/3 - 4/7): Pan-Indianism, Progressivism, and World War I
 
-### Week 15 (4/21 - 4/25): New World Order
-* *Textbook supplement to lecture*: Foner, Chapter 27
-* **WEDNESDAY**: Primary Source Response #4
+##### Week 13 (4/10 - 4/14): The Interwar Years 
+* **THURSDAY**: Reading Response Four
 
-### Week 16 (4/28 - 5/2): The Road to Today
-* *Textbook supplement to lecture*: Relevant parts within Foner, Chapter 28
-* **FINAL EXAM**: May 5th
+##### Week 14 (4/17 - 4/21): World War II and the New Era of Indigenous Activism
+
+Readings:
+
+- Deloria: Chapter Five
+
+##### Week 15 (4/24 - 4/28): Red Power
+* **THURSDAY**: Paper Due
+
+Readings:
+
+- Deloria: Chapter Six and Conclusion
+
+##### Week 16 (5/1 - 5/5): Self-Determination to Decolonization
+
+Readings:
+
+- Thrush: Chapter Seven (pp. 209-237)
+
+##### Final Exam: Tuesday, May 9th, 10AM
