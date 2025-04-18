@@ -7,7 +7,8 @@ cover:
   image: "cover.jpeg"
   alt: "Cushing Oil Fields, near Tulsa, Okla."
   caption: "Cushing Oil Fields, near Tulsa, Okla. Credit: Rijksmuseum"
-  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
