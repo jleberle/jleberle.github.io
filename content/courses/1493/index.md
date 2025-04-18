@@ -3,10 +3,10 @@ title: "United States History Since 1865"
 date: 2025-04-17
 summary: A survey of the history of the United States from the end of the Civil War until the present day.
 cover:
-  image: "/images/1493cover.jpeg"
+  image: "cover.jpg"
   hiddenInList: false
   hiddenInSingle: false
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
   caption: "\"*Untitled (Civil Works Administration demonstration, New York City) (Ben Shahn)*\", P1970.4242, Harvard Art Museums collections online, Apr 17, 2025, https://hvrd.art/o/18313."
 ---
 
