@@ -12,6 +12,10 @@ cover:
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+*This course was offered in-person during the Spring 2025 semester*
+
+*If you are enrolled in one of my courses make sure you consult the current syllabus on the course's Canvas page.*
+
 ## Course Description
 
 This course will cover the history of the region now known as Oklahoma from the earliest Indigenous arrivals through the recent past. The course will ask students to consider what shaped the history of Oklahoma including, but not limited to, forced Indigenous removals, the booms and busts of Oklahoma's oil industry, and Oklahoma's complicated racial history in the 20th century. 
@@ -23,6 +27,13 @@ The course requires the following materials which can be purchased at the Univer
 * Rebecca Nagle, *By the Fire We Carry: The Generations-Long Fight for Justice on Native Land* ISBN 0063112043
 
 You will also need to provide 3 blank standard sized blue books for exams. Blue books may be turned in prior to or after class during the first two weeks of the semester. 
+
+### Books previously used
+
+In past semesters the following books were used in the course:
+
+- Sam Anderson, *Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding... Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis*
+- Randy Krehbiel, *Tulsa, 1921: Reporting a Massacre*
 
 ## Assignments
 
