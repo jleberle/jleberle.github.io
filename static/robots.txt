@@ -49,3 +49,4 @@ User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
 User-agent: YouBot
 Disallow: /
+Sitemap: https://jaredeberle.org/sitemap.xml

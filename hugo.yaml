@@ -3,7 +3,7 @@ languageCode: en-us
 title: Jared L. Eberle
 theme: ["PaperMod"]
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
