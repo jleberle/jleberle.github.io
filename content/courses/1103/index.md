@@ -4,7 +4,7 @@ draft: false
 title: 'Survey of American History'
 summary: 'Survey of American history from past to present in one semester'
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Map of the United States"
   hiddenInList: false
   hiddenInSingle: false

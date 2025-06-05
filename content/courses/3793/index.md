@@ -3,7 +3,7 @@ date: '2025-04-17'
 draft: false
 title: 'Native American History'
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Sun Dance Scene"
   hiddenInList: false
   hiddenInSingle: false
